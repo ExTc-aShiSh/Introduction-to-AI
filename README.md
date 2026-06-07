@@ -12,15 +12,22 @@ This repo contains the codes, experiments, and assignments that I work on as par
 - 🧪 Includes implementations, experiments, and small projects  
 - 📝 Serves as my personal learning log and reference  
 
-> The content grows as the semester progresses.
-
 
 ## 🛠 Language Used
 
-- **Python** 🐍
+- **Python**
+- **Tensorflow**
+- **SciKit**
+- Many more , too much to list here ig . 
+
+## Update
+Today dated June 7, 2026 I declare that this repo is offficially dead or I must rather say , 'Complete' . It was a nice learning experience as now I know that all of AI slop is just matrix multiplication at its core . Anyways if you are here reading it , thanks a lot , I really put all this effort to write this readme file myself , just for you . Bye , see you , love ya .
+
 
 ## 📌 Author 
 - **Ashish**
+- **Department of Electronics and Communication Engineering**
+- **Jawaharlal Nehru Government Engineering College ,Himachal Pradesh**
 - *CSPC-414(P)*
  
 
